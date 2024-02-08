@@ -1,0 +1,27 @@
+// The entries for the Bingo. May be modified but must be 
+// at least 24 entries.
+let bingoEntries = new Array(
+	"Attention", 
+	"Color theory",
+	"Visual search pop out",
+	"Gestalt Rule - Common Region",
+	"Gestalt Rule - Proximity",
+	"Short-term memory",
+	"7 plus-minus 2 Memory",
+	"Recognize than recall",
+	"Fitt's Law",
+	"Mental models",
+	"Metaphor",
+	"Affordance",
+	"Gulfs of Execution and Evaluation",
+	"Learnability - Predictability (past interactions /w the tech inform future actions)",
+	"Learnability - Familiarity (past interactions outside the tech inform future actions)",
+	"Learnability - Consistency",
+	"Flexibility - Substitutivity (can perform a task using more than one way)",
+	"Flexibility - Dialog Initiative (let users initiate the dialog with the technology)",
+	"Flexibility - Multi-threading",
+	"Robustness - Observability",
+	"Robustness - Recoverability (users can correct the errors)",
+	"Robustness - Visibility (users are clear about what the system can do)",
+	"Robustness - Transparency (tells the user about what has been done)",
+	"Gamification");
